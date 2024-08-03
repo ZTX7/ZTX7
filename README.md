@@ -1,5 +1,8 @@
-## Hi there 👋
+<h2> Olá, sou..</h2>
 
+<h1 style="text-align: center;"> ♦☬• 𝚂̷𝚒̷𝚗̷é𝚣̷𝚒̷𝚘̷ 𝙹̷𝚞̷𝚗̷𝚒̷𝚘̷𝚛̷ •☬♦ </h1>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZTX7&hide=contribs&show_icons=true&theme=great-gatsby)](https://github.com/ZTX7/github-readme-stats)
 <!--
 **ZTX7/ZTX7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
