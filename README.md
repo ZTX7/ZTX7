@@ -30,15 +30,5 @@
     
 </div><br/>
 
-## ♦ Frameworks
 
-<div style="display: inline_block">
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-0a516d?style=for-the-badge&logo=python&logoColor=white">
-    <img align="center" alt="C" src="https://img.shields.io/badge/-8B949E?style=for-the-badge&logo=C&logoColor=white">
-    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black">
-    
-</div><br/>
 
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Trailforks</title><path d="M12 1.608 0 22.392h24zm-1.292 5.698h2.584v5.885l2.664 1.917v5.587h-2.204V16.05L12 14.788l-1.752 1.262v4.645H8.044v-5.587l2.664-1.917z"/></svg>
