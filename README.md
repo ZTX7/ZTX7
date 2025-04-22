@@ -1,4 +1,4 @@
-<h2 style="text-align: center;"> Hi, Wellcome to my Workspace. </h2>
+<h2 style="text-align: center;"> Hi, Wellcome to my workspace. </h2>
 <h4> • I am currently pursuing a degree in Computer Science. <br>• I have a strong interest in software development, web application, and am continuously working to improve my skills and expand my knowledge</h4>
 <h1> </h1>
 
