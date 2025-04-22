@@ -1,5 +1,5 @@
-<h1 style="text-align: center;"> ♦☬• 𝚂̷𝚒̷𝚗̷é𝚣̷𝚒̷𝚘̷ 𝙹̷𝚞̷𝚗̷𝚒̷𝚘̷𝚛̷ •☬♦ </h1>
-<h4> • 22 Years <br>• Aspiring Computer Scientist.</h4>
+<h2 style="text-align: center;"> Hi, Wellcome to my Workspace. </h2>
+<h4> • I am currently pursuing a degree in Computer Science. <br>• I have a strong interest in software development, web application, and am continuously working to improve my skills and expand my knowledge</h4>
 <h1> </h1>
 
 
@@ -8,19 +8,37 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/smookeztx7)
 
 
+
+## ♦ Progress
+
+
 <div>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ZTX7&show_icons=true&theme=nord" alt="Status de Sinézio Junior"/>
-    <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZTX7&layout=compact&hide_border=true&title_color=B0C4DE&text_color=B0C4DE&bg_color=0d1117" alt="Linguagens mais usadas"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ZTX7&show_icons=true&hide_border=true&theme=dark" alt="Status de Sinézio Junior"/>
+    <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZTX7&layout=compact&hide_border=true&title_color=FFFFFF&text_color=8B949E&bg_color=0D1117" alt="Linguagens mais usadas"/>
 </div><br/> 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZTX7&bg_color=0d1117&color=B0C4DE&line=7FFF00&point=B0C4DE&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZTX7&bg_color=0D1117&color=B0C4DE&line=F4F4F4&point=8B949E&area=true&hide_border=true&grid=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## ♦ Stacks
 
 <div style="display: inline_block">
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-0a516d?style=for-the-badge&logo=python&logoColor=white">
+    <img align="center" alt="C" src="https://img.shields.io/badge/-8B949E?style=for-the-badge&logo=C&logoColor=white">
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black">
+    
 </div><br/>
 
+## ♦ Frameworks
 
+<div style="display: inline_block">
+    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-0a516d?style=for-the-badge&logo=python&logoColor=white">
+    <img align="center" alt="C" src="https://img.shields.io/badge/-8B949E?style=for-the-badge&logo=C&logoColor=white">
+    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black">
+    
+</div><br/>
+
+<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Trailforks</title><path d="M12 1.608 0 22.392h24zm-1.292 5.698h2.584v5.885l2.664 1.917v5.587h-2.204V16.05L12 14.788l-1.752 1.262v4.645H8.044v-5.587l2.664-1.917z"/></svg>
