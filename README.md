@@ -11,10 +11,6 @@
 ## ♦ Progress
 
 
-<div>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ZTX7&show_icons=true&hide_border=true&theme=dark" alt="Status de Sinézio Junior"/>
-    <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZTX7&layout=compact&hide_border=true&title_color=FFFFFF&text_color=8B949E&bg_color=0D1117" alt="Linguagens mais usadas"/>
-</div><br/> 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZTX7&bg_color=0D1117&color=B0C4DE&line=F4F4F4&point=8B949E&area=true&hide_border=true&grid=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
